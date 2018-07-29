@@ -1,13 +1,12 @@
-# 31242_32549_IP
+# 32549 Advanced Internet Programming 2018
 
 Welcome to My Advanced Internet Programming 2018 Journal
 
 ## Week 1 Skills Portfolio and Professional Software Development Tools
 
+## Week 2 Choosing Stack, HTTP and Rest
 
-### Week 2 Choosing Stack, HTTP and Rest
-
-#### Assessment 2 - Take an Online Course
+### Assessment 2 - Take an Online Course
 
 In preparation for week 2, I've kicked off the journey with 3 courses on Lynda.com: (1) Full-Stack JavaScript Development: MongoDB, Node and React; (2) Node.js Essential and revised (3) Learning Git and GitHub. 
 
