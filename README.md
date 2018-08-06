@@ -15,3 +15,7 @@ Node.js Essential is a very hands-on course with a good coverage of Node.js as a
 Here is the progress status as at the 29th of July 2018:
 
 [Take an Online Course Progress](https://drive.google.com/open?id=16WHXOHm6_n7lAgrUgUw1rLew-Gz0SBOR)
+
+## Week 3 Good Code, State and Advanced JavaScript
+
+### Assessment 2 - Attend a Hackathon (UNIHACK 2018)
